@@ -1,0 +1,23 @@
+{
+  "name": "marfeel-js-test",
+  "version": "1.0.0",
+  "description": "Marfeel front-end JavaScript test",
+  "main": "index.js",
+  "devDependencies": {
+    "jasmine-core": "^3.3.0",
+    "node-sass": "^4.9.4"
+  },
+  "scripts": {
+    "scss": "node-sass src/styles/scss -watch -o src/styles/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanvmoreno/marfeel-js-test.git"
+  },
+  "author": "Iván Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanvmoreno/marfeel-js-test/issues"
+  },
+  "homepage": "https://github.com/ivanvmoreno/marfeel-js-test#readme"
+}
